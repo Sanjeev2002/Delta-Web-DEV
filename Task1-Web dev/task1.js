@@ -239,6 +239,7 @@ button19.innerHTML='&nbsp;&nbsp;&nbsp;   ';
 button20.onclick=function()
 {
 button20.innerHTML='&nbsp;&nbsp;&nbsp;  ';
+	startStop();
 }
 }
 }
